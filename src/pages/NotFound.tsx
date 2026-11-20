@@ -1,0 +1,1 @@
+export default function NotFound(){return <section className="container" style={{padding:'100px 24px',textAlign:'center'}}><h1 className="serif">Page not found</h1><a href="/" style={{color:'#171717'}}>Kembali ke beranda</a></section>}
